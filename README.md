@@ -1,9 +1,9 @@
 # SB24GZ – ប៉ុស្តិ៍​ច្បាស់ៗ
-a Telegram-native clear posts and announcements bot.
+A Telegram-native clear posts and announcements bot.
 
 ## Bot identity
 - Name: SB24GZ – ប៉ុស្តិ៍​ច្បាស់ៗ
-a- Username: @SB24GZ_PostBot
+- Username: @SB24GZ_PostBot
 - Purpose: Clear posts / announcements
 
 ## Core functions
